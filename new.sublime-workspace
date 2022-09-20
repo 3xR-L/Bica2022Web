@@ -56,10 +56,10 @@
 	"buffers":
 	[
 		{
-			"file": "new.html",
+			"file": "program.html",
 			"settings":
 			{
-				"buffer_size": 4105,
+				"buffer_size": 7065,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -97,6 +97,7 @@
 	},
 	"file_history":
 	[
+		"/C/Users/ilsea/Documents/GitHub/Bica2022Web/new.html",
 		"/C/Users/ilsea/Documents/CursoDeHTML/BienesRaices/index.html",
 		"/C/Users/ilsea/Documents/CursoDeHTML/Ejercicio/contacto.html",
 		"/C/Users/ilsea/Documents/CursoDeHTML/Ejercicio/contenidos.html",
@@ -141,19 +142,19 @@
 			[
 				{
 					"buffer": 0,
-					"file": "new.html",
+					"file": "program.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 4105,
+						"buffer_size": 7065,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								398,
-								398
+								2572,
+								2572
 							]
 						],
 						"settings":
@@ -163,7 +164,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 648.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
